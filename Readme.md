@@ -1,1 +1,2 @@
 # Jazmin CSC 235
+# For this Assignment the 2 Bootstrap components I decided to add were an accordion and dark mode added to the dropdown menu.  I added the accordion because I thought it added depth to the web page, also it's somewhere more information can be stored. I added dark mode to the dropdown menu to add more contrast to it when it is opened. 
